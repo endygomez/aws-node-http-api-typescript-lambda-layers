@@ -1,0 +1,14 @@
+{
+  "name": "serverless-http-api-typescript",
+  "description": "",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.61",
+    "serverless": "^4.2.1",
+    "serverless-offline": "^6.5.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
